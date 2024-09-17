@@ -1,8 +1,9 @@
 # Fly4Life-Data-base
 
 **Presentation:**
-The project involves creating a relational database for Fly4Life, a company that conducts humanitarian flights. The goal is to efficiently manage the fleet of aircraft, pilots, and humanitarian missions, ensuring smooth operational functionality and data integrity.
+The project involves creating a relational database for Fly4Life, a company that conducts humanitarian flights. The goal is to efficiently manage the fleet of aircraft, pilots, and humanitarian missions, ensuring smooth operational functionality and data integrity.<br/>
 
+![image](https://github.com/user-attachments/assets/54d607d3-8a0b-4bab-a971-16224918e654)
 **General Technologies used:**  <br/>
 Data Modeling and Normalization: <br/>
 - 1NF (First Normal Form): All table attributes are atomic, meaning each field contains only one value. <br/>
